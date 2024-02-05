@@ -1,0 +1,57 @@
+[
+	{
+		"title": "The Great Barrier Reef",
+		"lat": -16.8801503,
+		"lng": 145.5768595,
+		"description": "<p>Bring your swim trunks there's lots of little fishies down undah'!</p>"
+	},
+	{
+		"title": "Santa Rosa, CA",
+		"lat": 38.4486,
+		"lng": -122.7047,
+		"description": "<p>I live here. See me in these streets!</p>"
+	},
+	{
+		"title": "Machu Picchu",
+		"lat": -13.163136,
+		"lng": -72.5471516,
+		"description": "<p>Machu Picchu was once a city in the clouds</p>"
+	},
+	{
+		"title": "London, UK",
+		"lat": 58.3815688,
+		"lng": -135.3186772,
+		"description": "<p>Juneau what it is!</p>"
+	},
+  {
+		"title": "Disneyworld",
+		"lat": 28.4194138,
+		"lng": -81.581234,
+		"description": "<p>The happiest place on Earth (allegedly)</p>"
+	},
+  {
+		"title": "The Pyramids",
+		"lat": 30.0167698,
+		"lng": 31.1196029,
+		"description": "<p>Walk like an Egyptian</p>"
+	},
+  {
+		"title": "Frozen scientists",
+		"lat": -68.5767516,
+		"lng": 77.959,
+		"description": "<p>It is way too cold down here</p>"
+	},
+  {
+		"title": "Tokyo",
+		"lat": 35.6684415,
+		"lng": 139.6007837,
+		"description": "<p>There are way too many people in this city</p>"
+	},
+  {
+ 		"title": "Suez Canal",
+		"lat":   30.5666548,
+		"lng": 31.8861225,
+		"description": "<p>Somebody better get this boat out of here!</p>"
+	}
+
+]
